@@ -1,0 +1,11 @@
+server:
+  port: 8888
+
+datasource:
+  driverName: mysql
+  host: 127.0.0.1
+  port: 3306
+  database: test_gin_mysql
+  username: root
+  password: admin123456
+  charset: utf8
