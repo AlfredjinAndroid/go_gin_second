@@ -2,9 +2,9 @@ package controller
 
 import (
 	"go_gin_second/common"
-	"go_gin_second/common/dto"
-	"go_gin_second/common/dto/response"
+	"go_gin_second/dto"
 	"go_gin_second/model"
+	"go_gin_second/response"
 	"go_gin_second/util"
 	"log"
 	"net/http"
